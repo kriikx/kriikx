@@ -1,9 +1,7 @@
 # 👋 Hi there, I'm Krish!
 
  CSE (AI) Undergrad  
- Backend Developer | DSA Enthusiast  
- Building, deploying, and improving every day  
-
+ Backend Developer | DSA Enthu  
 ---
 
 ##  About Me
@@ -11,8 +9,7 @@
 -  Experience with **Flask & Django** (APIs & web apps)
 -  Databases: **SQL, MongoDB**
 -  Deployment: **Heroku**
--  Comfortable with **Linux**
--  Basic frontend: **HTML, CSS, JavaScript**
+-  Basic frontend: **HTML, CSS**
 -  Actively improving **DSA & problem solving**
 
 ---
