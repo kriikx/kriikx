@@ -1,5 +1,6 @@
 #  Hi there:
- I’m currently working on my flask project<br> I’m currently learning django<br>
+I'm a CSE (AI) undergrad with a focus on frontend systems and problem solving. Skilled in Python, Java, C++, and c, with hands-on experience using Flask and Django. Currently building projects, sharpening DSA fundamentals, and working toward meaningful open-source contributions.
+<br>
 
 
 ##  Socials:
