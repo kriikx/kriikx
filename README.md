@@ -5,7 +5,6 @@
 🤔 I’m looking for help with Framework collaborations <br>
 💬 Ask me about anything <br>
 📫 How to reach me: @addyosmani on Twitter
-
 ---
 
 ##  Connect with Me
@@ -13,4 +12,3 @@
 [![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:krishkumar15062006@gmail.com)
 [![Discord](https://img.shields.io/badge/Discord-5865F2?logo=discord&logoColor=white)](https://discordapp.com/users/kriikx)
 
----
