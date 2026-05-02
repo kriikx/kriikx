@@ -2,19 +2,19 @@
   <img src="https://github.com/user-attachments/assets/8e5772b4-4eec-4b6e-8495-2c273431ba24" width="400" style="background-color:#0d1117;" />
 </p>
 
-<p align="center" style="display:flex; justify-content:center; align-items:center; gap:14px;">
+<p style="display:flex; justify-content:center; align-items:center; gap:14px;">
   <span>i love code</span>
   <img src="https://github.com/user-attachments/assets/417665b7-a25a-4af2-9201-00d37b144759" width="68" height="68" style="vertical-align:middle;" />
   <span>and unicorns</span>
   <img src="https://github.com/user-attachments/assets/4510bba1-eede-4e5f-b954-ed3b5e318e79" width="68" height="68" style="vertical-align:middle;" />
 </p>
 
-<p align="center">
-🔭 I'm currently working on flask project <br>
+
+_**🔭 I'm currently working on flask project <br>
 👯 I'm looking to collaborate on Developer Tooling <br>
 🤔 I'm looking for help with framework integrations <br>
-💬 Ask me about backend, APIs, DSA
-</p>
+💬 Ask me about backend, APIs, DSA**_
+
 
 ---
 
