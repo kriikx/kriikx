@@ -1,10 +1,9 @@
-# 👋 Hi there, I'm Krish!
 
- 🔭 I’m currently working on AI at Google (Gemini, Agents, Vertex) <br>
+
+ 🔭 I’m currently working on flask project <br>
 👯 I’m looking to collaborate on Developer Tooling <br>
 🤔 I’m looking for help with Framework collaborations <br>
-💬 Ask me about anything <br>
-📫 How to reach me: @addyosmani on Twitter
+💬 Ask me about anything <br> 
 ---
 
 ##  Connect with Me
