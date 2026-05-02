@@ -1,19 +1,19 @@
 #  Hi there 👋🏻:
 
-🎓 Pursuing B.Tech in Computer Science Engineering (AI) with a focus on software development fundamentals
-💻 Specializing in backend development, with strong interest in building scalable and efficient server-side applications
-⚙️ Proficient in programming languages including Python, Java, and C++, with solid understanding of core concepts and implementation
-🌐 Experienced in backend frameworks such as Flask and Django, used for developing RESTful APIs and web applications
-🗄️ Hands-on experience with databases:
-SQL (relational database design, queries)
-MongoDB (NoSQL, document-based storage)
-🖥️ Comfortable working in Linux environments, including command-line operations and development workflows
-🚀 Experience deploying applications using Heroku, demonstrating ability to take projects from development to production
-🌐 Working knowledge of frontend technologies:
-HTML, CSS, JavaScript (basic UI and integration with backend)
-🔄 Familiar with version control practices and collaborative development workflows
-🌍 Exploring and preparing to contribute to open-source projects
-📈 Continuously learning and improving through hands-on coding, projects, and technical practice
+🎓 Pursuing B.Tech in Computer Science Engineering (AI) with a focus on software development fundamentals <br>
+💻 Specializing in backend development, with strong interest in building scalable and efficient server-side applications <br>
+⚙️ Proficient in programming languages including Python, Java, and C++, with solid understanding of core concepts and implementation <br>
+🌐 Experienced in backend frameworks such as Flask and Django, used for developing RESTful APIs and web applications <br>
+🗄️ Hands-on experience with databases: <br>
+SQL (relational database design, queries) <br>
+MongoDB (NoSQL, document-based storage) <br>
+🖥️ Comfortable working in Linux environments, including command-line operations and development workflows <br>
+🚀 Experience deploying applications using Heroku, demonstrating ability to take projects from development to production <br>
+🌐 Working knowledge of frontend technologies: <br>
+HTML, CSS, JavaScript (basic UI and integration with backend) <br>
+🔄 Familiar with version control practices and collaborative development workflows <br>
+🌍 Exploring and preparing to contribute to open-source projects <br>
+📈 Continuously learning and improving through hands-on coding, projects, and technical practice 
 <br>
 
 
