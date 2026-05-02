@@ -1,21 +1,10 @@
 # 👋 Hi there, I'm Krish!
 
- CSE (AI) Undergrad  
- Backend Developer | DSA Enthu  
----
-
-##  About Me
--  Backend developer skilled in **Python, Java, C++, C**
--  Experience with **Flask & Django** (APIs & web apps)
--  Databases: **SQL, MongoDB**
--  Deployment: **Heroku**
--  Basic frontend: **HTML, CSS**
--  Actively improving **DSA & problem solving**
-
----
-
-## 📊 LeetCode Stats
-![LeetCode Stats](https://leetcard.jacoblin.cool/kriikx)
+ 🔭 I’m currently working on AI at Google (Gemini, Agents, Vertex) <br>
+👯 I’m looking to collaborate on Developer Tooling <br>
+🤔 I’m looking for help with Framework collaborations <br>
+💬 Ask me about anything <br>
+📫 How to reach me: @addyosmani on Twitter
 
 ---
 
