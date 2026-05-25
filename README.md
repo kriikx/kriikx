@@ -1,7 +1,7 @@
 <div align="center">
 
 <!-- Animated Capsule Header -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Krish&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Developer%20%7C%20Modder%20%7C%20Researcher&descAlignY=55&descSize=18" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Krish&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Developer%20%7C%20%20%7C%20Researcher&descAlignY=55&descSize=18" width="100%" />
 
 <!-- Animated Typing -->
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&duration=3000&pause=1000&color=6C63FF&center=true&vCenter=true&multiline=false&repeat=true&width=500&height=45&lines=Full-Stack+Developer+%F0%9F%92%BB;Game+Modder+%F0%9F%8E%AE;Systems+Programmer+%F0%9F%94%A7;Hardware+Researcher+%F0%9F%94%AC;Open+Source+Enthusiast+%F0%9F%9A%80" alt="Typing SVG" /></a>
