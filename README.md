@@ -37,7 +37,7 @@
 <tr>
 <td colspan="2" valign="top">
 <h3>🚀 Currently</h3>
-<p>🔭 Working on <b>Game Modding Tools</b> for Forza Horizon 6 &nbsp;•&nbsp; 🌱 Learning <b>Reverse Engineering</b> & <b>Memory Manipulation</b> &nbsp;•&nbsp; 💬 Ask me about <b>Java, C, Python, Databases</b> &nbsp;&nbsp; </p>
+<p>🔭 Working on <b>Game Modding Tools</b> for Forza Horizon 6 &nbsp;•&nbsp; 🌱 Learning <b>Reverse Engineering</b> & <b>Memory Manipulation</b> &nbsp;•&nbsp; 💬 Ask me about <b>Java, C, Python, Databases and Computer networks</b> &nbsp;&nbsp; </p>
 </td>
 </tr>
 </table>
