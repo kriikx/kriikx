@@ -19,7 +19,7 @@
 <tr>
 <td width="50%" valign="top">
 <h3>🧑‍💻 Who am I?</h3>
-<p><b>🏷️ Name:</b> Krish kumar</p>
+<p><b>🏷️ Name:</b> Krish Kumar</p>
 <p><b>📍 Location:</b> India <code>UTC +05:30</code></p>
 <p><b>🎓 Education:</b> Computer Science</p>
 <p><b>🏅 Badge:</b> GitHub Pro</p>
