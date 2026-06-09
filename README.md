@@ -23,7 +23,7 @@
 <p><b>📍 Location:</b> India <code>UTC +05:30</code></p>
 <p><b>🎓 Education:</b> Computer Science</p>
 <p><b>🏅 Badge:</b> GitHub Pro</p>
-<p><b>⚡ Fun Fact:</b>  It is illegal to own only one guinea pig in Switzerland.</p>
+<p><b>⚡ Fun Fact:</b>  It is illegal to own only one guinea pig in Switzerland</p>
 </td>
 <td width="50%" valign="top">
 <h3>💡 What I do?</h3>
