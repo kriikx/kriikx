@@ -1,7 +1,7 @@
 <div align="center">
 
 <!-- Animated Capsule Header -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Kumar%20Krish&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=%20%20%20&descAlignY=55&descSize=18" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=5,10,20&height=200&section=header&text=Kumar%20Krish&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=%20%20%20&descAlignY=55&descSize=18" width="100%" />
 <!-- Animated Typing -->
 <div>
   <img src="https://readme-typing-svg.herokuapp.com?lines=AI+%26+Full-Stack+Developer;Machine+Learning+%26+Data+Science;Mobile+App+Developer;&height=30&color=58A6FF">
