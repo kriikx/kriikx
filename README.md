@@ -6,12 +6,10 @@
 ![Header Image](https://github.com/halfrost/halfrost/blob/master/icons/header_.png)
 <!-- Animated Typing -->
 <div>
-  <img src="https://readme-typing-svg.herokuapp.com?lines=AI+%26+Full-Stack+Developer;Machine+Learning+%26+Data+Science;Mobile+App+Developer;&height=30&color=ffffff">
+  <img src="https://readme-typing-svg.herokuapp.com?lines=AI+%26+Full-Stack+Developer;Machine+Learning+%26+Data+Science;Mobile+App+Developer;&height=30&color=58A6FF">
 </div>
 
 <!-- Animated Ocean Wave -->
-<img src="https://raw.githubusercontent.com/Trilokia/Trilokia/379277808c61ef204768a61bbc5d25bc7798ccf1/bottom_header.svg" width="100%" />
-
 </div>
 
 ## <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> About Me <img src="https://komarev.com/ghpvc/?username=ShivamKhator&abbreviated=true&color=6C63FF&labelColor=0D1117&style=for-the-badge" alt="Profile Views" height="30" align="right" />
