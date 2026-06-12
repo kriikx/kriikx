@@ -10,6 +10,7 @@
 ![Header Image](https://github.com/halfrost/halfrost/blob/master/icons/header_.png)
 <!-- Animated Ocean Wave -->
 </div>
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
 ## <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> About Me <img src="https://komarev.com/ghpvc/?username=ShivamKhator&abbreviated=true&color=6C63FF&labelColor=0D1117&style=for-the-badge" alt="Profile Views" height="30" align="right" />
 
@@ -116,6 +117,6 @@
 
 <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Random Dev Quote" />
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=5,10,20&height=100&section=footer" width="100%" />
 
 </div>
