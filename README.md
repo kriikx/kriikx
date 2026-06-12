@@ -1,20 +1,20 @@
-![Header Image](https://github.com/halfrost/halfrost/blob/master/icons/header_.png)
 <div align="center">
 
 <!-- Animated Capsule Header -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Kumar%20Krish&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Full-Stack%20Developer%20•%20AI%20Engineer%20&descAlignY=55&descSize=18" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Kumar%20Krish&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=%20%20%20&descAlignY=55&descSize=18" width="100%" />
 
+![Header Image](https://github.com/halfrost/halfrost/blob/master/icons/header_.png)
 <!-- Animated Typing -->
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&duration=3000&pause=1000&color=6C63FF&center=true&vCenter=true&multiline=false&repeat=true&width=500&height=45&lines=Full-Stack+Developer+%F0%9F%92%BB;Always+Learning+Something+New+;Building+Real-World+Systems+%F0%9F%94%A7;Hardware+Researcher+%F0%9F%94%AC;Open+Source+Enthusiast+%F0%9F%9A%80" alt="Typing SVG" /></a>
-
-<br/>
+<div>
+  <img src="https://readme-typing-svg.herokuapp.com?lines=AI+%26+Full-Stack+Developer;Machine+Learning+%26+Data+Science;Mobile+App+Developer;&height=30&color=ffffff">
+</div>
 
 <!-- Animated Ocean Wave -->
 <img src="https://raw.githubusercontent.com/Trilokia/Trilokia/379277808c61ef204768a61bbc5d25bc7798ccf1/bottom_header.svg" width="100%" />
 
 </div>
 
-## <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> About Me
+## <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> About Me <img src="https://komarev.com/ghpvc/?username=ShivamKhator&abbreviated=true&color=6C63FF&labelColor=0D1117&style=for-the-badge" alt="Profile Views" height="30" align="right" />
 
 <table>
 <tr>
