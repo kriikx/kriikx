@@ -35,10 +35,6 @@
 </td>
 </tr>
 <tr>
-<td colspan="2" valign="top">
-<h3>🚀 Currently</h3>
-<p>🔭 Working on <b>Advanced AI Systems</b>&nbsp;•&nbsp; 🌱 Learning <b>Backend Architecture</b> & <b>Real-Time Monitoring Systems</b> &nbsp;•&nbsp; ⚓ I create impactful solutions that bridge technology and real-world problems</b> &nbsp;&nbsp; </p>
-</td>
 </tr>
 </table>
 
