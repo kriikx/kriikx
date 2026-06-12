@@ -3,9 +3,9 @@
 <!-- Animated Capsule Header -->
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=5,10,20&height=200&section=header&text=Kumar%20Krish&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=%20%20%20&descAlignY=55&descSize=18" width="100%" />
 <!-- Animated Typing -->
-<div>
-  <img src="https://readme-typing-svg.herokuapp.com?lines=AI+%26+Full-Stack+Developer;Machine+Learning+%26+Data+Science;Mobile+App+Developer;&height=30&color=58A6FF">
-</div>
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&lines=AI+%26+Full-Stack+Developer;Machine+Learning+%26+Data+Science;Mobile+App+Developer;&width=440&height=30&color=58A6FF&center=true&vCenter=true">
+</p>
 
 ![Header Image](https://github.com/halfrost/halfrost/blob/master/icons/header_.png)
 <!-- Animated Ocean Wave -->
