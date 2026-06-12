@@ -23,22 +23,24 @@
 <p><b>🏷️ Name:</b> Kumar Krish</p>
 <p><b>📍 Location:</b> India <code>UTC +05:30</code></p>
 <p><b>🎓 Education:</b> Computer Science</p>
-<p><b>🏅 Badge:</b> GitHub Pro</p>
+<p><b>🔍</b> Focused on developing innovative solutions using cutting-edge technologies</p>
+  
+  👯 Open to exciting opportunities and collaborations in tech
 <p><b>⚡ Fun Fact:</b>  It is illegal to own only one guinea pig in Switzerland</p>
 </td>
 <td width="50%" valign="top">
 <h3>💡 What I do?</h3>
-<p>🎮 Backend Systems</p>
-<p>🔬 Hardware Research <i>(Self-Healing Computing)</i></p>
-<p>🌐 Full-Stack Web Development</p>
 <p>🤖 AI & Machine Learning</p>
+<p>🧑🏻‍💻 Mobile App Developer</p>
+<p>🔬 Expertise in ML/DL & Modern Web</p>
+<p>🌐 Full-Stack Web Development</p>
 <p>🛡️ Low-Level Systems Programming</p>
 </td>
 </tr>
 <tr>
 <td colspan="2" valign="top">
 <h3>🚀 Currently</h3>
-<p>🔭 Working on <b>Advanced AI Systems</b>&nbsp;•&nbsp; 🌱 Learning <b>Backend Architecture</b> & <b>Real-Time Monitoring Systems</b> &nbsp;•&nbsp; 💬 Ask me about <b>Java, Python, Databases and Computer networks</b> &nbsp;&nbsp; </p>
+<p>🔭 Working on <b>Advanced AI Systems</b>&nbsp;•&nbsp; 🌱 Learning <b>Backend Architecture</b> & <b>Real-Time Monitoring Systems</b> &nbsp;•&nbsp; I create impactful solutions that bridge technology and real-world problems</b> &nbsp;&nbsp; </p>
 </td>
 </tr>
 </table>
@@ -152,8 +154,6 @@
 <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Random Dev Quote" />
 
 <br/><br/>
-
-[![Hits](https://hits.sh/github.com/kriikx.svg?style=for-the-badge&label=PROFILE+VIEWS&color=6C63FF&labelColor=0D1117)](https://hits.sh/github.com/kriikx/)
 
 <br/>
 
