@@ -1,3 +1,4 @@
+![Header Image](https://github.com/halfrost/halfrost/blob/master/icons/header_.png)
 <div align="center">
 
 <!-- Animated Capsule Header -->
