@@ -26,7 +26,6 @@
 <p><b>🔍</b> Focused on developing innovative solutions using cutting-edge technologies</p>
   
   👯 Open to exciting opportunities and collaborations in tech
-<p><b>⚡ Fun Fact:</b>  It is illegal to own only one guinea pig in Switzerland</p>
 </td>
 <td width="50%" valign="top">
 <h3>💡 What I do?</h3>
@@ -40,14 +39,14 @@
 <tr>
 <td colspan="2" valign="top">
 <h3>🚀 Currently</h3>
-<p>🔭 Working on <b>Advanced AI Systems</b>&nbsp;•&nbsp; 🌱 Learning <b>Backend Architecture</b> & <b>Real-Time Monitoring Systems</b> &nbsp;•&nbsp; I create impactful solutions that bridge technology and real-world problems</b> &nbsp;&nbsp; </p>
+<p>🔭 Working on <b>Advanced AI Systems</b>&nbsp;•&nbsp; 🌱 Learning <b>Backend Architecture</b> & <b>Real-Time Monitoring Systems</b> &nbsp;•&nbsp; ⚓ I create impactful solutions that bridge technology and real-world problems</b> &nbsp;&nbsp; </p>
 </td>
 </tr>
 </table>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
-## <img src="https://media.giphy.com/media/cj87CxfRtrUifF3Riz/giphy.gif" width="30"> GitHub Stats
+## <img src="https://media.giphy.com/media/W5eoZHPpUx9sapR0eu/giphy.gif" width="30"> GitHub Stats
 
 <div align="center">
 
@@ -62,7 +61,7 @@
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
-## <img src="https://media.giphy.com/media/UVG0BN8TOMKkPOJS6e/giphy.gif" width="30"> Profile Summary
+## <img src="https://media.giphy.com/media/RbDKaczqWovIugyJmW/giphy.gif" width="30"> Profile Summary
 
 <div align="center">
 <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=kriikx&theme=tokyonight" width="95%" alt="Profile Details" />
