@@ -1,7 +1,7 @@
 <div align="center">
 
 <!-- Animated Capsule Header -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=%20%20%20&descAlignY=55&descSize=18" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Kumar%20Krish&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=%20%20%20&descAlignY=55&descSize=18" width="100%" />
 
 ![Header Image](https://github.com/halfrost/halfrost/blob/master/icons/header_.png)
 <!-- Animated Typing -->
