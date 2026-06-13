@@ -1,10 +1,10 @@
 <div align="center">
 
 <!-- Animated Capsule Header -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=10,19,90&height=146&section=header&text=Kumar%20Krish&fontSize=27&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=%20%20%20&descAlignY=55&descSize=18" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=10,19,90&height=146&section=header&text=Kumar%20Krish&fontSize=30&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=%20%20%20&descAlignY=55&descSize=18" width="100%" />
 <!-- Animated Typing -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&lines=AI+%26+Full-Stack+Developer;Machine+Learning+%26+Data+Science;Mobile+App+Developer;&width=440&height=30&color=58A6FF&center=true&vCenter=true">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&lines=AI+%26+Full-Stack+Developer;Machine+Learning+%26+Data+Science;Mobile+App+Developer;&width=440&height=26&color=58A6FF&center=true&vCenter=true">
 </p>
 
 ![Header Image](https://github.com/halfrost/halfrost/blob/master/icons/header_.png)
