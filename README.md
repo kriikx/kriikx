@@ -118,6 +118,6 @@
 
 <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Random Dev Quote" />
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=1,10,10&height=100&section=footer" width="100%" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=40,10,80&height=100&section=footer" width="100%" />
 
 </div>
