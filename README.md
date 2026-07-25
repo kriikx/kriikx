@@ -7,7 +7,8 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&lines=AI+%26+Full-Stack+Developer;Machine+Learning+%26+Data+Science;">
 </p>
 
-![Header Image](https://github.com/halfrost/halfrost/blob/master/icons/header_.png)
+<img width="1920" height="679" alt="gitiii" src="https://github.com/user-attachments/assets/a0fbabce-748f-436e-a2b8-4ce0eb589e60" />
+
 <!-- Animated Ocean Wave -->
 </div>
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
