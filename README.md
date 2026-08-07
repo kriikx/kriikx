@@ -7,7 +7,8 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&lines=AI+%26+Full-Stack+Developer;Machine+Learning+%26+Data+Science;">
 </p>
 
-<img width="1920" height="679" alt="gitiii" src="https://github.com/user-attachments/assets/a0fbabce-748f-436e-a2b8-4ce0eb589e60" />
+<img width="2000" height="385" alt="header_" src="https://github.com/user-attachments/assets/1004f4dd-b112-4621-add9-a82ee0cda9ab" />
+
 
 <!-- Animated Ocean Wave -->
 </div>
