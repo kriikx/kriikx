@@ -42,21 +42,6 @@
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
-## <img src="https://media.giphy.com/media/W5eoZHPpUx9sapR0eu/giphy.gif" width="30"> GitHub Stats
-
-<div align="center">
-
-<img width="49%" src="https://github-readme-stats-sigma-five.vercel.app/api?username=kriikx&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6C63FF&icon_color=6C63FF&text_color=FFFFFF&count_private=true&include_all_commits=true" alt="GitHub Stats" />
-<img width="49%" src="https://streak-stats.demolab.com/?user=kriikx&theme=tokyonight&hide_border=true&background=0D1117&ring=6C63FF&fire=FF6B6B&currStreakLabel=6C63FF&sideLabels=FFFFFF" alt="Streak Stats" />
-
-<br/>
-
-<img width="40%" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=kriikx&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6C63FF&text_color=FFFFFF&langs_count=10" alt="Top Languages" />
-
-</div>
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
-
 ## <img src="https://media.giphy.com/media/RbDKaczqWovIugyJmW/giphy.gif" width="30"> Profile Summary
 
 <div align="center">
