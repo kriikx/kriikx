@@ -20,7 +20,7 @@
 <tr>
 <td width="50%" valign="top">
 <h3>🧑‍💻 Who am I?</h3>
-<p><b>🏷️ Name:</b> Kumar Krish</p>
+<p><b>🏷️ Name:</b> Krish Kumar</p>
 <p><b>📍 Location:</b> India <code>UTC +05:30</code></p>
 <p><b>🎓 Education:</b> Computer Science</p>
 <p><b>🔍</b> Focused on developing innovative solutions using cutting-edge technologies</p>
