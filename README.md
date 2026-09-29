@@ -1,110 +1,35 @@
-<div align="center">
 
-<!-- Animated Capsule Header -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=40,10,80&height=146&section=header&text=KUMAR%20KRISH&fontSize=30&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=%20%20%20&descAlignY=55&descSize=18" width="100%" />
-<!-- Animated Typing -->
+<h4 align="center"><samp> Hi there 👋🏾  welcome to my Github! I'm an Open Source Contributor and Professional Yak Shaver. I also like Python and I'm exploring Cloud Tech 🐍 ☁️ </samp></h4>
+
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&lines=AI+%26+Full-Stack+Developer;Machine+Learning+%26+Data+Science;">
+  <img width="250" src="https://media.giphy.com/media/jIgXf4hgbHCeKiXpvt/giphy.gif">
 </p>
 
-<img width="2000" height="385" alt="header_" src="https://github.com/user-attachments/assets/1004f4dd-b112-4621-add9-a82ee0cda9ab" />
 
+<p align="center">
+<a href= "https://dev.to/ari_hacks"><img src="https://img.icons8.com/windows/32/000000/dev.png"/></a>
+<a href= "https://twitter.com/ari_hacks"><img src="https://img.icons8.com/material-outlined/32/000000/twitter.png"/></a>
+<a href= "https://ko-fi.com/ari_hacks"><img src="https://img.icons8.com/pastel-glyph/32/000000/like--v1.png"/></a>
+</p>
 
-<!-- Animated Ocean Wave -->
-</div>
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
+<p align="center"><samp>
+Check out my repos ⬇️  
+  </samp>
+</p>
 
-## <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> About Me <img src="https://komarev.com/ghpvc/?username=ShivamKhator&abbreviated=true&color=6C63FF&labelColor=0D1117&style=for-the-badge" alt="Profile Views" height="30" align="right" />
+<!-- ![](https://visitor-badge.glitch.me/badge?page_id=ari-hacks.ari-hacks)
+ -->
+<!--
+**ari-hacks/ari-hacks** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-<table>
-<tr>
-<td width="50%" valign="top">
-<h3>🧑‍💻 Who am I?</h3>
-<p><b>🏷️ Name:</b> Krish Kumar</p>
-<p><b>📍 Location:</b> India <code>UTC +05:30</code></p>
-<p><b>🎓 Education:</b> Computer Science</p>
-<p><b>🔍</b> Focused on developing innovative solutions using cutting-edge technologies</p>
-  
-  👯 Open to exciting opportunities and collaborations in tech
-</td>
-<td width="50%" valign="top">
-<h3>💡 What I do?</h3>
-<p>🤖 AI & Machine Learning</p>
-<p>🧑🏻‍💻 Mobile App Developer</p>
-<p>🔬 Expertise in ML/DL & Modern Web</p>
-<p>🌐 Full-Stack Web Development</p>
-<p>🛡️ Low-Level Systems Programming</p>
-</td>
-</tr>
-<tr>
-</tr>
-</table>
+Here are some ideas to get you started:
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
-
-## <img src="https://media.giphy.com/media/RbDKaczqWovIugyJmW/giphy.gif" width="30"> Profile Summary
-
-<div align="center">
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=kriikx&theme=tokyonight" width="95%" alt="Profile Details" />
-<br/>
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=kriikx&theme=tokyonight" width="32%" alt="Repos per Language" />
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=kriikx&theme=tokyonight" width="32%" alt="Most Commit Language" />
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=kriikx&theme=tokyonight&utcOffset=5.5" width="32%" alt="Productive Time" />
-</div>
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
-
-## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="30"> Tech Stack
-
-<div align="center">
-
-### Languages
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![C](https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black)
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-
-
-### Frameworks & Libraries
-![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
-![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
-![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-
-### Data Science & ML
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
-![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=plotly&logoColor=white)
-![Seaborn](https://img.shields.io/badge/Seaborn-2E5C99?style=for-the-badge&logo=jupyter&logoColor=white)
-![scikit-learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white)
-
-### Databases & Tools
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![Kali Linux](https://img.shields.io/badge/Kali_Linux-000000?style=for-the-badge&logo=kalilinux&logoColor=white)
-![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
-![Cursor AI](https://img.shields.io/badge/Cursor_AI-000000?style=for-the-badge&logo=cursor&logoColor=white)
-
-### DevOps & Platforms
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
-![Render](https://img.shields.io/badge/Render-46E3B7?style=for-the-badge&logo=render&logoColor=black)
-
-</div>
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
-
-<div align="center">
-
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Random Dev Quote" />
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=40,10,80&height=100&section=footer" width="100%" />
-
-</div>
+- 🔭 I’m currently working on ...
+- 🌱 I’m currently learning ...
+- 👯 I’m looking to collaborate on ...
+- 🤔 I’m looking for help with ...
+- 💬 Ask me about ...
+- 📫 How to reach me: ...
+- 😄 Pronouns: ...
+- ⚡ Fun fact: ...
+-->
