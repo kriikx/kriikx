@@ -7,9 +7,9 @@
 
 
 <p align="center">
-<a href="https://instagram.com/kriikx"><img src="https://img.icons8.com/windows/32/000000/instagram-new.png"/></a>
-<a href="https://linkedin.com/in/kriikx"><img src="https://img.icons8.com/windows/32/000000/linkedin.png"/></a>
-<a href="mailto:krishkumar15062006@gmail.com"><img src="https://img.icons8.com/windows/32/000000/new-post.png"/></a>
+<a href="mailto:krishkumar15062006@gmail.com"><img src="https://img.icons8.com/windows/32/ffffff/new-post.png"/></a>
+<a href="https://linkedin.com/in/kriikx"><img src="https://img.icons8.com/windows/32/ffffff/linkedin.png"/></a>
+<a href="https://instagram.com/kriikx"><img src="https://img.icons8.com/windows/32/ffffff/instagram-new.png"/></a>
 </p>
 
 <p align="center"><samp>
